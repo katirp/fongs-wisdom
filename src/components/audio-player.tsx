@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useRef, useEffect } from "react"
-import { Play, Pause, Volume2, VolumeX } from "lucide-react"
+import { Play, Pause } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 interface AudioPlayerProps {

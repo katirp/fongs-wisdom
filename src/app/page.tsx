@@ -10,7 +10,7 @@ export default function Home() {
 
   return (
     <main className="container mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold text-primary mb-6">Happy Mother's Day!</h1>
+      <h1 className="text-4xl font-bold text-primary mb-6">Happy Mother{`'`}s Day!</h1>
       <p className="text-xl text-primary mb-8">
         Thank you for all of the wisdom you have given me 😊. Click on any card to expand and learn more about the chengyu.
       </p>

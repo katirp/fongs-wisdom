@@ -23,25 +23,25 @@ export default function AboutPage() {
                 {/* About Text */}
                 <div className="w-full md:w-3/5 space-y-4 text-lg">
                     <p>
-                        Welcome to Fong's Wisdom, a collection of chengyu bestowed upon me by the great Master Shi Fu Fong.
+                        Welcome to Fong{`'`}s Wisdom, a collection of chengyu bestowed upon me by the great Master Shi Fu Fong.
                     </p>
 
                     <p>
-                        Thank you for giving me wisdom and strength. You are my rock! When I am down or I don't know what to do, thinking about what you would do gives me clarity.
+                        Thank you for giving me wisdom and strength. You are my rock! When I am down or I don{`'`}t know what to do, thinking about what you would do gives me clarity.
                         Even my friends know about Shi Fu Fong because I always tell them how awesome you are. I must have done a really good deed in my past life to be born to you. 🥰
                     </p>
 
                     <p>
-                        I wanted to make this website to save all the chengyu and voice memos you send to me so that it's easier to come back to and hopefully to learn them by heart eventually.
+                        I wanted to make this website to save all the chengyu and voice memos you send to me so that it{`'`}s easier to come back to and hopefully to learn them by heart eventually.
                     </p>
 
                     <p>
-                        I love you so much, and I'm so grateful everyday that I have the best parents in the world!! I miss you so much and can't wait to play the pigu game with you again soon.
+                        I love you so much, and I{`'`}m so grateful everyday that I have the best parents in the world!! I miss you so much and can{`'`}t wait to play the pigu game with you again soon.
                         🥰🥰🥰❤️❤️❤️
                     </p>
 
                     <p className="italic text-primary/80 mt-8">
-                        “Filial piety is the root of all virtue, and the stem out of which grows all moral teaching. #FilialPiety”
+                        "Filial piety is the root of all virtue, and the stem out of which grows all moral teaching. #FilialPiety"
                         <br />— Confucius
                     </p>
                 </div>
